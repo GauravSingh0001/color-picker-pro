@@ -2,6 +2,8 @@
 
 Pick any on-screen color using the native EyeDropper API. Instantly view HEX/RGB/HSL, copy with one click, and keep a persistent visual history in a compact, accessible UI.
 
+Live url: https://microsoftedge.microsoft.com/addons/detail/color-picker-pro-fast-c/adomppoofemjhackbjbkfplknjdaepdo
+
 ## Features
 
 - EyeDropper-based picking from anywhere on screen
